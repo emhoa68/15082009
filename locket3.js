@@ -1,5 +1,5 @@
 #!url=https://raw.githubusercontent.com/emhoa68/15082009/refs/heads/master/locket3.js
-#!name=emhoa68
+#!name=15082009
 #!desc=Crack By emhoa68
 
 [Script]
